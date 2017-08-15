@@ -38,4 +38,6 @@ DATA STRUCTURE USAGES - 2 extra credit requirements are used
 
 ***Refer To Google Docs***
 
+Google Docs Link: https://docs.google.com/document/d/1w_tdYDfLYAnn6d6nEmlknbzQk-Hm8LKwlTXTCVSX60s/edit?usp=sharing
+
 *** Submissions are to be typed, formatted, bound and submitted on time please! ***
